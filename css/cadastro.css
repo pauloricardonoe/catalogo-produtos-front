@@ -1,0 +1,14 @@
+.msgErro {
+    color: red;
+}
+
+#imgProduto{
+    width: 250px;
+    height: 250px;
+}
+
+#divImagem{
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
